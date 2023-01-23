@@ -32,8 +32,8 @@ See more at [my project portfolio](https://etienne.boisseau.eu#projects).
 ## Links
 
 - Email: **etienne@boisseau.eu**
-- Website: [https://etienne.boisseau.eu](https://etienne.boisseau.eu/)
-- LinkedIn: [https://www.linkedin.com/in/etienne-boisseau-ai/](https://www.linkedin.com/in/etienne-boisseau-ai/)
+- Website: **[https://etienne.boisseau.eu](https://etienne.boisseau.eu/)**
+- LinkedIn: **[https://www.linkedin.com/in/etienne-boisseau-ai/](https://www.linkedin.com/in/etienne-boisseau-ai/)**
 
 ## Tech Stack
 My favorite technologies to build projects.
