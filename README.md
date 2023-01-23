@@ -23,9 +23,9 @@ My specialization is in Natural Language Processing (NLP).
 ## Project Portfolio
 Here are a few examples of recent projects with my clients:
 
-- **Neural Network Optimization for Large-scale Inference:** 🧠 Using state-of-the-art **neural network optimization** methods, optimizing data flow and minimizing idle time, we managed to **divide the cost of inference by 6** for large NLP models.
-- **Logistics Incident Detection and Prediction:** 🚚 The client needed an incident detection system that would have a **0% false-negative rate** - meaning it knew when to call upon a human for any ambiguous case. We were able to achieve this thanks to a rigourous **data processing, data quality control and monitoring pipeline.**
-- **Simulating a Social Network:** 🖧 We built a unique algorithm for **simulating user messages on a social network.** The text content of the posts was **machine-generated** using a novel algorithm allowing for unprecedented control over the nature, theme, and emotion of the text. This system powered an innovative **immersive experience**, which was used in a crisis management course at a top French university.
+- 🧠 **Neural Network Optimization for Large-scale Inference:** Using state-of-the-art **neural network optimization** methods, optimizing data flow and minimizing idle time, we managed to **divide the cost of inference by 6** for large NLP models.
+- 🚚 **Logistics Incident Detection and Prediction:** The client needed an incident detection system that would have a **0% false-negative rate** - meaning it knew when to call upon a human for any ambiguous case. We were able to achieve this thanks to a rigourous **data processing, data quality control and monitoring pipeline.**
+- 🌐 **Simulating a Social Network:** We built a unique algorithm for **simulating user messages on a social network.** The text content of the posts was **machine-generated** using a novel algorithm allowing for unprecedented control over the nature, theme, and emotion of the text. This system powered an innovative **immersive experience**, which was used in a crisis management course at a top French university.
 
 See more at [my project portfolio](https://etienne.boisseau.eu#projects).
 
