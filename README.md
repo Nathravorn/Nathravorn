@@ -52,7 +52,7 @@ My favorite technologies to build projects.
 ### Machine Learning, Deep Learning
 
 <p>
-<img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit-Learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
+<img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
 <img alt="PyTorch-Lightning" src="https://img.shields.io/badge/-PyTorch%20Lightning-%23EE4C2C.svg?style=flat&logo=pytorchlightning&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
